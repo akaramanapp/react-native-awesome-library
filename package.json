@@ -51,7 +51,7 @@
   "publishConfig": {
     "publish": false,
     "skipChecks": true,
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/akaramanapp"
   },
   "devDependencies": {
     "@evilmartians/lefthook": "^1.2.2",
