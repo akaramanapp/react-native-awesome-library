@@ -1,5 +1,5 @@
 {
-  "name": "@akaramanapp/react-native-awesome-library",
+  "name": "react-native-awesome-library",
   "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -104,7 +104,9 @@
       "tagName": "v${version}"
     },
     "npm": {
-      "publish": true
+      "publish": true,
+      "skipChecks": true,
+      "registry": "https://registry.npmjs.org/akaramanapp"
     },
     "github": {
       "release": true
