@@ -49,9 +49,9 @@
   },
   "homepage": "http://github.com/akaramanapp/react-native-awesome-library#readme",
   "publishConfig": {
-    "publish": false,
+    "publish": true,
     "skipChecks": true,
-    "registry": "https://registry.npmjs.org/akaramanapp"
+    "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@evilmartians/lefthook": "^1.2.2",
